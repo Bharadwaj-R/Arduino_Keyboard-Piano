@@ -1,5 +1,6 @@
 #include<Pitches.h>
-//Include Pitches.h library into your arduino libraries before compiling
+
+//include Pitches.h header file in arduino ide libraries before compiling
 //code directly taken from open projects in Arduino Websites
 
 int C[] = {N_C5};
