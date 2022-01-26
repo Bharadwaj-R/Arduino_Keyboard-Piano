@@ -9,6 +9,7 @@ Arduino takes input from serial monitor, and plays the tone corresponding to the
 - Arduino Uno
 - 1k ohm resistor
 - Piezo Buzzer (or Speaker)
+- Jumper Wires
 
 ***Connections :***  
 ![Keyboard Piano](https://user-images.githubusercontent.com/77038120/151202644-7bfa36c8-6371-4bf2-8d8b-ae0156f51b8a.jpg)
