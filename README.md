@@ -1,7 +1,7 @@
 # Arduino Keyboard Piano
 ### Simple IoT piano project, using Arduino Uno
 
-***Working :***
+***Working :***  
 Once we switch on the Arduino Uno and upload the code, the serial monitor waits for the user input. Based on the no. of characters given as input, it plays the corresponding note. 
 
 ***Versions***  
