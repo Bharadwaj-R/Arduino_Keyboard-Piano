@@ -2,7 +2,8 @@
 ### Simple IoT piano project, using Arduino Uno
 
 ***Working :***  
-Once we switch on the Arduino Uno and upload the code, the serial monitor waits for the user input. Based on the no. of characters given as input, it plays the corresponding note. 
+Arduino takes input from serial monitor, and plays the tone corresponding to the input letter. If the input is a string (sequence), then each tone from the sequence is played for 0.5s before the next tone takes up.
+**Tones** - a, s, d, f, g, h, j, q, w, r, t, y, u  
 
 ***Versions***  
 - v1.0.0 - Only one character input, need to press enter key after every input.  
