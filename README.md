@@ -1,7 +1,7 @@
 # Arduino Keyboard Piano
 ### Simple IoT piano project, using Arduino Uno
 
-***Working :***  
+***Overview :***  
 Arduino takes input from serial monitor, and plays the tone corresponding to the input letter. If the input is a string (sequence), then each tone from the sequence is played for 0.5s before the next tone takes up.  
 **Tones** - a, s, d, f, g, h, j, q, w, r, t, y, u  
 
