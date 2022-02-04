@@ -21,5 +21,5 @@ Arduino takes input from serial monitor, and plays the tone corresponding to the
 - v1.1.0 - Multiple character input, can press the input once the tone order is set. Still need to press enter after every combination.  
 
 ***Motivation behind the project :***  
-The basic motivation beind this project is to help a few of my CS friends with their IoT project. Them being CS students, they couldn't understand much about sensors and stuff. Hence, they approached me for help (I'm an ECE Undergrad. Refer [My GitHub profile](https://github.com/Bharadwaj-R) for more info about me) 
+The basic motivation beind this project is to help a few of my CS friends with their IoT project. Them being CS students, they couldn't understand much about sensors and stuff. Hence, they approached me for help (I'm an ECE Undergrad. Refer [My GitHub Profile](https://github.com/Bharadwaj-R) for more info about me) 
 
